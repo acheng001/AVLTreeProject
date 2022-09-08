@@ -1,0 +1,2 @@
+Main: main.cpp 
+	g++ -g -ggdb3 -Wall -std=c++11 -o Main main.cpp 
